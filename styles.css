@@ -28,3 +28,37 @@
       background: black;
       color: white;
   }
+
+  hr {
+    border-top: 3px solid black;
+    padding-top: 2px;
+    padding-bottom: 2px;
+  }
+
+  .overview {
+    float:left;
+    padding-bottom: 10px;
+  }
+
+  h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+
+  p {
+      font-size: 20px;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+
+  .businesslogo {
+      background: #DCDCDC;
+      border: 2px;
+      border-color: black;
+      width: 150px;
+  }
+
+.companylogos img{
+    margin: auto;
+    display: block;
+    margin-top: auto;
+    margin-bottom: auto;
+}
