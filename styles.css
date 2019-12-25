@@ -31,8 +31,6 @@
 
   hr {
     border-top: 3px solid black;
-    padding-top: 2px;
-    padding-bottom: 2px;
   }
 
   h1 {
@@ -50,6 +48,5 @@
   }
 
 .companylogos img{
-    padding-top: 30px;
-    padding-left: 10px;
+
 }
